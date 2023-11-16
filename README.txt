@@ -2,8 +2,8 @@
 ##1. actor_metadata
 | Variable              | Description                                     |
 | --------------------- | ----------------------------------------------- |
-| X                     | Unspecified variable                            |
-| X.1                   | Another unspecified variable                    |
+| X                     | Record number or identifier                     |
+| X.1                   | New record number or identifier                 |
 | CHARACTER_ID          | Unique identifier for characters                |
 | SCRIPT_ID             | Identifier for the associated movie script      |
 | CHARACTER_NAME        | Name of the character                           |
@@ -29,10 +29,9 @@
 | TITLE     | Title of the movie            |
 | YEAR      | Release year of the movie     |
 | GROSS     | Gross revenue of the movie    |
-| GENRE     | Genre or category of the movie |
+| GENRE     | Genre of the movie |
 | AWARD     | Indicator if the movie received an award |
 | NOTES     | Additional notes or comments  |
-| X         | Variable with unspecified information |
 
 #Information about the creator and source of the dataset
 The author of this data set are Svaikovsky, Victoria; Meisner, Anne; Kraicer, Eve; Sims, Matthew from McGill University. They extracted data from 780 movies from 1970 to 2014. The data includes movie names, character information, line information, etc. This study shows the racial bias and impact in film and television works.

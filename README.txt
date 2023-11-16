@@ -2,18 +2,15 @@
 ##1. actor_metadata
 | Variable              | Description                                     |
 | --------------------- | ----------------------------------------------- |
-| X                     | Record number or identifier                     |
-| X.1                   | New record number or identifier                 |
+| X                     | Record number                                   |    
 | CHARACTER_ID          | Unique identifier for characters                |
-| SCRIPT_ID             | Identifier for the associated movie script      |
+| SCRIPT_ID             | Identifier for the movie script                 |
 | CHARACTER_NAME        | Name of the character                           |
-| ACTOR_NAME            | Name of the actor playing the character         |
+| ACTOR_NAME            | Name of the actor                               |
 | PARTIAL_MATCH         | Indicator for partial matching                  |
-| GENDER                | Gender of the character                         |
-| MISGENDER             | Indicator for misgendering                      |
-| CHARACTER_RACE        | Race  of the character                          |
-| ACTOR_RACE            | Race  of the actor playing the character        |
-| PART_WHITE            | Indicator for partial whiteness of the character |
+| GENDER                | Gender of the character                         |     
+| CHARACTER_RACE        | Race of the character                           |
+| ACTOR_RACE            | Race of the actor                               |
 | AGE                   | Age of the character                            |
 | EXTRACTED_WORDS       | Number of words extracted                       |
 | POLYGRAPH_WORDS       | Words related to polygraph                      |
@@ -23,15 +20,15 @@
 ##2. scripts_metadata
 | Variable  | Description                   |
 | --------- | ----------------------------- |
-| NUMBER    | Record number or identifier   |
+| NUMBER    | Record number                 |
 | SCRIPT_ID | Unique identifier for movie scripts |
 | IMDB      | IMDB identifier for the movie |
 | TITLE     | Title of the movie            |
 | YEAR      | Release year of the movie     |
 | GROSS     | Gross revenue of the movie    |
-| GENRE     | Genre of the movie |
-| AWARD     | Indicator if the movie received an award |
-| NOTES     | Additional notes or comments  |
+| GENRE     | Genre of the movie            |
+| AWARD     | The number of the award       |
+| NOTES     | Additional notes              |
 
 #Information about the creator and source of the dataset
 The author of this data set are Svaikovsky, Victoria; Meisner, Anne; Kraicer, Eve; Sims, Matthew from McGill University. They extracted data from 780 movies from 1970 to 2014. The data includes movie names, character information, line information, etc. This study shows the racial bias and impact in film works.

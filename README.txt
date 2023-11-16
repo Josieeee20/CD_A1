@@ -11,8 +11,8 @@
 | PARTIAL_MATCH         | Indicator for partial matching                  |
 | GENDER                | Gender of the character                         |
 | MISGENDER             | Indicator for misgendering                      |
-| CHARACTER_RACE        | Race or ethnicity of the character              |
-| ACTOR_RACE            | Race or ethnicity of the actor playing the character |
+| CHARACTER_RACE        | Race  of the character                          |
+| ACTOR_RACE            | Race  of the actor playing the character        |
 | PART_WHITE            | Indicator for partial whiteness of the character |
 | AGE                   | Age of the character                            |
 | EXTRACTED_WORDS       | Number of words extracted                       |
@@ -34,5 +34,5 @@
 | NOTES     | Additional notes or comments  |
 
 #Information about the creator and source of the dataset
-The author of this data set are Svaikovsky, Victoria; Meisner, Anne; Kraicer, Eve; Sims, Matthew from McGill University. They extracted data from 780 movies from 1970 to 2014. The data includes movie names, character information, line information, etc. This study shows the racial bias and impact in film and television works.
+The author of this data set are Svaikovsky, Victoria; Meisner, Anne; Kraicer, Eve; Sims, Matthew from McGill University. They extracted data from 780 movies from 1970 to 2014. The data includes movie names, character information, line information, etc. This study shows the racial bias and impact in film works.
 

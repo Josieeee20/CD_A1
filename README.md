@@ -1,5 +1,7 @@
 # The introduction of the dataset
-## 1. actor_metadata
+The data is extracted from 780 Hollywood films spanning from 1970 to 2014 which includes movie names, character information, line information, etc. This study presents the percentage of white people in all actors to show culture inequelity in vedio works.
+
+## Variables_table_1
 | Variable              | Description                                     |
 | --------------------- | ----------------------------------------------- |
 | X                     | Record number                                   |    
@@ -19,7 +21,7 @@
 
 The quantitative data mainly focus on  recording various information about the characters in the movie and the actors who played those roles, including gender, age, race, text analysis, etc.
 
-## 2. scripts_metadata
+##  Variables_table_2
 | Variable  | Description                   |
 | --------- | ----------------------------- |
 | NUMBER    | Record number                 |
@@ -35,5 +37,6 @@ The quantitative data mainly focus on  recording various information about the c
 This table is used to record basic information about different movies, including the name of the movie, year of release, box office revenue, genre, etc.
 
 # Information about the creator and source of the dataset
-The author of this data set（https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY）are Svaikovsky, Victoria; Meisner, Anne; Kraicer, Eve; Sims, Matthew from McGill University. They extracted quantitative data and qualitative data from 780 Hollywood films spanning from 1970 to 2014 which includes movie names, character information, line information, etc. This study presents the percentage of white people in all actors to show culture inequelity in vedio works.
-
+The author of this data set are Svaikovsky, Victoria; Meisner, Anne; Kraicer, Eve; Sims, Matthew from McGill University. 
+# The source of the dataset
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KERZQY
